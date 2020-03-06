@@ -1,11 +1,13 @@
 body {
   background: #000;
 }
+.wrapper{  
+  background: #121116;
+}
 .mainer {
   max-width: 1170px;
   margin: 0 auto;
   padding: 120px 0 40px 0;
-  background: #121116;
   color: white;
 }
 .mainer img {
